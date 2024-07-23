@@ -161,5 +161,3 @@ The application uses the following environment variables:
 ![Create Post](https://github.com/user-attachments/assets/64bb96bb-cefd-412f-ae1a-875cd6cca8cf)
 ![Post Page](https://github.com/user-attachments/assets/b5390a20-18c6-4572-b8b6-a1979a688f06)
 ![Edit Post](https://github.com/user-attachments/assets/c7b03197-277c-47e3-a70f-b92f1047313c)
-
-This README file provides a comprehensive overview of your project, including setup instructions, technology stack, features, and more. Make sure to update the GitHub URL and add actual screenshots in the "Screenshots" section.
