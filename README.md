@@ -62,7 +62,7 @@ Make sure you have the following installed on your local development environment
 1. Clone the repository:
 
 ```bash
-https://github.com/keshavkumar143/IdeaWave.git
+git clone https://github.com/keshavkumar143/IdeaWave.git
 cd MERN GRP
 ```
 
