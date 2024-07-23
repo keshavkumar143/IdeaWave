@@ -158,7 +158,7 @@ The application uses the following environment variables:
 ![Register Page](https://github.com/user-attachments/assets/8da2795e-4bb8-4363-8b3b-29fbbc19418a)
 ![Login Page](https://github.com/user-attachments/assets/caeabb9f-1b5a-4be7-bacf-012c2aeb407a)
 ![Home Page](https://github.com/user-attachments/assets/6da80556-8bf6-4ce9-a67b-5fb4b398c3a8)
-![Post Page](https://github.com/user-attachments/assets/c5fd3103-dce1-41ab-85f9-a7e14f3986a9)
+![Post Page](https://github.com/user-attachments/assets/b5390a20-18c6-4572-b8b6-a1979a688f06)
 ![Create Post](https://github.com/user-attachments/assets/64bb96bb-cefd-412f-ae1a-875cd6cca8cf)
 ![Edit Post](https://github.com/user-attachments/assets/c7b03197-277c-47e3-a70f-b92f1047313c)
 
