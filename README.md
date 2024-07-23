@@ -22,7 +22,6 @@ Welcome to ideaWave, a full-featured blog website where users can create, edit, 
 - View individual post details
 - Responsive design using Tailwind CSS
 - Notifications using Toastify
-- Error handling and user feedback
 
 ## Technologies Used
 
