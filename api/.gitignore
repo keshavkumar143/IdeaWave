@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional: OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Editor/IDE specific files
+.vscode/
+.idea/
+
+# Optional: Environment configuration
+.env
+.env.local
+.env.*.local
+
+# Optional: Build output
+build/
+dist/
+out/
+
+# Optional: Miscellaneous
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.log
+*.sqlite
+*.sqlite3
+*.pdb
