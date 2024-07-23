@@ -11,8 +11,6 @@ Welcome to ideaWave, a full-featured blog website where users can create, edit, 
 - [Frontend Overview](#frontend-overview)
 - [Environment Variables](#environment-variables)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
