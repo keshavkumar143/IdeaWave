@@ -156,10 +156,10 @@ The application uses the following environment variables:
 
 ## Screenshots
 
-![Home Page]![Screenshot (236)](https://github.com/user-attachments/assets/6da80556-8bf6-4ce9-a67b-5fb4b398c3a8)
-![Post Page]![Screenshot (241)](https://github.com/user-attachments/assets/c5fd3103-dce1-41ab-85f9-a7e14f3986a9)
-![Create Post]![Screenshot (242)](https://github.com/user-attachments/assets/64bb96bb-cefd-412f-ae1a-875cd6cca8cf)
-![Edit Post]![Screenshot (243)](https://github.com/user-attachments/assets/c7b03197-277c-47e3-a70f-b92f1047313c)
+Home page[Screenshot (236)](https://github.com/user-attachments/assets/6da80556-8bf6-4ce9-a67b-5fb4b398c3a8)
+Post Page [Screenshot (241)](https://github.com/user-attachments/assets/c5fd3103-dce1-41ab-85f9-a7e14f3986a9)
+Create Post [Screenshot (242)](https://github.com/user-attachments/assets/64bb96bb-cefd-412f-ae1a-875cd6cca8cf)
+Edit Post [Screenshot (243)](https://github.com/user-attachments/assets/c7b03197-277c-47e3-a70f-b92f1047313c)
 
 
 This README file provides a comprehensive overview of your project, including setup instructions, technology stack, features, and more. Make sure to update the GitHub URL and add actual screenshots in the "Screenshots" section.
